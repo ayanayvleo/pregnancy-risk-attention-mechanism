@@ -1,0 +1,25 @@
+[
+  {
+    "id": 9,
+    "question": "YOUR QUESTION HERE",
+    "answer": "YOUR ANSWER HERE",
+    "systolic_bp": 0,
+    "diastolic_bp": 0,
+    "heart_rate": 0,
+    "weight_lbs": 0,
+    "weight_gain_lbs": 0,
+    "glucose_mg_dl": 0,
+    "protein_urine": 0,
+    "swelling_feet": 0,
+    "headache": 0,
+    "vision_blurry": 0,
+    "pregnancy_week": 0,
+    "trimester": 0,
+    "days_pregnant": 0,
+    "due_date_days_away": 0,
+    "age": 0,
+    "previous_pregnancies": 0,
+    "bmi": 0.0,
+    "urgency": "low"
+  }
+]
