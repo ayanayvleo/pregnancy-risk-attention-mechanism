@@ -1,4 +1,4 @@
-streamlit 
-torch 
-numpy 
-pandas 
+echo streamlit > requirements.txt
+echo torch >> requirements.txt
+echo numpy >> requirements.txt
+echo pandas >> requirements.txt
